@@ -1,6 +1,8 @@
-# A Todo List demo App
-This is a todo list demo designed for CS411. 
-# Tutorial
+# Most Valuable Professor
+A statistics based web-application that provides UIUC Professor's course data to students. 
+Data includes percentage of A's earned, most common letter grade, student enrollment and general grade distribution.
+
+## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sY1lLGe7ECA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A comprehensive writeup is avaliable [here](https://tichung.com/blog/2021/20200323_flask/).
