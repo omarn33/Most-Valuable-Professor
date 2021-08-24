@@ -1,4 +1,5 @@
 # Most Valuable Professor
+**[Live Demo]**
 A statistics based web-application that provides UIUC Professor's course data to students. 
 Data includes percentage of A's earned, most common letter grade, student enrollment and general grade distribution.
 
@@ -56,3 +57,5 @@ gcloud config set project cs411-sp21
 gcloud auth login
 gcloud app deploy
 ```
+
+[Live Demo]: https://uiuc1867mvp.web.illinois.edu/
